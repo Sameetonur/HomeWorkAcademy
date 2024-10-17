@@ -1,0 +1,43 @@
+.butons button {
+    width: 400px;
+    height: 400px;
+    background-color: orange;
+    margin-left: 120px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px black;
+    transition: all .10s;
+
+
+}
+
+.butons button P {
+    font-size: 50px;
+
+}
+
+#buton-1 {
+    width: 500px;
+    height: 500px;
+    background-color: orangered;
+    border: 5px solid black;
+    border-radius: 50px;
+    transition: all .5s;
+}
+
+.butons {
+
+    padding-left: 1000px;
+    margin-top: 500px;
+}
+
+#buton-1:hover {
+    background-color: aqua;
+    transform: translate(3px, -3px);
+
+}
+
+.butons button:hover {
+    background-color: blueviolet;
+    transform: translate(-5px, 80px);
+
+}
