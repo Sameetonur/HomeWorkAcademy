@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\bin\Debug\net8.0\Soru_1.exe
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\bin\Debug\net8.0\Soru_1.deps.json
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\bin\Debug\net8.0\Soru_1.runtimeconfig.json
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\bin\Debug\net8.0\Soru_1.dll
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\bin\Debug\net8.0\Soru_1.pdb
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.AssemblyInfo.cs
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.dll
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\refint\Soru_1.dll
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.pdb
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\Soru_1.genruntimeconfig.cache
+C:\Users\samet\Desktop\HomeWork_25_08_2024\04-if-else-homework\Soru_1\obj\Debug\net8.0\ref\Soru_1.dll

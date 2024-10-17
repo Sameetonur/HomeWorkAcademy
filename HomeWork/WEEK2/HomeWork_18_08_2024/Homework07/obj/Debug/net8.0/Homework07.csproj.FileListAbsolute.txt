@@ -1,0 +1,4 @@
+C:\Users\samet\Desktop\HomeWork_18_08_2024\Homework07\obj\Debug\net8.0\Homework07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\HomeWork_18_08_2024\Homework07\obj\Debug\net8.0\Homework07.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\HomeWork_18_08_2024\Homework07\obj\Debug\net8.0\Homework07.AssemblyInfo.cs
+C:\Users\samet\Desktop\HomeWork_18_08_2024\Homework07\obj\Debug\net8.0\Homework07.csproj.CoreCompileInputs.cache

@@ -1,0 +1,354 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top {
+    background-color: #085E7D;
+    padding: 1rem 0;
+}
+
+.top-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top-container-menu ul {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    gap: 1.5rem;
+    margin: 0;
+
+
+}
+
+.top-container-menu a {
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+    opacity: .5;
+}
+
+.top-container-menu a.active,
+.top-container-menu a:hover {
+    opacity: 1;
+}
+
+.top-container-menu i {
+    margin-right: 1.5rem;
+}
+
+.top-container-src input {
+    height: 40px;
+    width: 200px;
+    border: none;
+    padding-left: 0.5rem;
+    border-radius: 7px;
+    outline: 0;
+
+}
+
+
+
+.top-container-src button {
+    height: 40px;
+    width: 40px;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(241, 219, 15);
+}
+
+/* ----------------------------------------HOME ÜST KISIM------------------------------- */
+
+.top-2-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.top-2-buttons button,
+.top-3-buttons button {
+    height: 40px;
+    width: 80px;
+    border-radius: 9%;
+
+}
+
+.one-button {
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+
+}
+
+.two-button {
+    background-color: #198754;
+    color: white;
+    border: none;
+}
+
+.one-button:hover {
+    background-color: #0a4aa8;
+}
+
+.two-button:hover {
+    background-color: #055c33;
+}
+
+.top-2-img img {
+
+    width: 600px;
+}
+
+/* -----------------HOME ORTA KISIM--------------------------- */
+
+.top-3 {
+
+    background-color: #085E7D;
+}
+
+.top-3-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 150px;
+}
+
+
+.top-3-text {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.button1 {
+    background-color: #085E7D;
+    border: 1px solid orange;
+    color: orange;
+}
+
+.button2 {
+    background-color: #085E7D;
+    border: 1px solid white;
+    color: white;
+}
+
+.button1:hover {
+    background-color: orange;
+    color: black;
+}
+
+.button2:hover {
+    background-color: white;
+    color: black;
+}
+
+/* ---------------HOME EN ALT KISIM------------------------ */
+
+
+.top-4-container {
+    margin-top: 25px;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.top-4-row {
+    border: 0.1px solid rgba(126, 124, 124, 0.349);
+    box-shadow: 0 2px 8px rgb(0, 0, 0, .2);
+    border-radius: 7px;
+}
+
+.top-4-row-img img {
+    border-radius: 7px;
+
+
+}
+
+.top-4-row-text {
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-top: 5px;
+
+}
+
+/* ------------------------- BLOG--------------------------------------------------------------- */
+
+.bigdiv-container {
+    display: flex;
+    padding: 20px;
+}
+
+.blgtop-2-left {
+    width: 25%;
+    padding: 20px;
+}
+
+.blgtop-1-right {
+    width: 75%;
+    background-color: white;
+    padding: 20px;
+
+}
+
+
+
+.blgtop-1-container {
+
+    margin-top: 25px;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.blgtop-1-container-row {
+    display: flex;
+    height: 300px;
+    box-shadow: 10px 5px 20px rgb(139, 132, 132, 0.2);
+    border: 1px solid rgb(0, 0, 0, 0.2);
+    border-radius: 7px;
+}
+
+.blgtop-1-container-img img {
+    border-radius: 7px;
+}
+
+.blgtop-1-container-text {
+    padding: 15px;
+}
+
+.blgtop-1-container-text p {
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.blgtop-2-buttons ul {
+
+    list-style: none;
+    text-align: center;
+    border: 0.5px solid rgba(0, 0, 0, 0.295);
+    border-radius: 8px;
+}
+
+.blgtop-2-buttons ul li {
+
+    padding: 5px;
+    background-color: white;
+    column-rule: black;
+    border-radius: 8px;
+
+}
+
+
+.blgtop-2-buttons ul li:hover {
+    background-color: rgb(227, 230, 230);
+}
+
+/* -------------------------------CONTACT------------------------------------ */
+.contact-all-container {
+    display: flex;
+    padding: 25px;
+}
+
+.contact-div-left {
+    width: 50%;
+    padding: 20px;
+}
+
+.contact-div-right {
+    width: 50%;
+    padding: 20px;
+}
+
+.form-container {
+    background-color: #004d66;
+    padding: 20px;
+    border-radius: 8px;
+    width: 700px;
+
+}
+
+.form-header {
+    background-color: #fff3cd;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.form-group1 {
+    margin-bottom: 15px;
+    display: flex;
+    color: white;
+    border-radius: 5px;
+    justify-content: space-between;
+
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group1 label {
+    padding: 10px;
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.form-group1 input,
+.form-group1 textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #004d66;
+    color: #ffc107;
+    border: 1px solid #ffc107;
+    border-radius: 7px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ffc107;
+    color: black;
+}

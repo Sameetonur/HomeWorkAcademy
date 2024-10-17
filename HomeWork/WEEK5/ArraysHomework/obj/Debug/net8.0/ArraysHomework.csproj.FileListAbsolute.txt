@@ -1,0 +1,15 @@
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\bin\Debug\net8.0\ArraysHomework.exe
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\bin\Debug\net8.0\ArraysHomework.deps.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\bin\Debug\net8.0\ArraysHomework.runtimeconfig.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\bin\Debug\net8.0\ArraysHomework.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\bin\Debug\net8.0\ArraysHomework.pdb
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.AssemblyInfoInputs.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.AssemblyInfo.cs
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.csproj.CoreCompileInputs.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.sourcelink.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\refint\ArraysHomework.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.pdb
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ArraysHomework.genruntimeconfig.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\ArraysHomework\obj\Debug\net8.0\ref\ArraysHomework.dll

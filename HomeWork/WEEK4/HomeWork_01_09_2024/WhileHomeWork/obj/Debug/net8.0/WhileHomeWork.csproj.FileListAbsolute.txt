@@ -1,0 +1,15 @@
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\bin\Debug\net8.0\WhileHomeWork.exe
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\bin\Debug\net8.0\WhileHomeWork.deps.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\bin\Debug\net8.0\WhileHomeWork.runtimeconfig.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\bin\Debug\net8.0\WhileHomeWork.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\bin\Debug\net8.0\WhileHomeWork.pdb
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.AssemblyInfoInputs.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.AssemblyInfo.cs
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.csproj.CoreCompileInputs.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.sourcelink.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\refint\WhileHomeWork.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.pdb
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\WhileHomeWork.genruntimeconfig.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK4\HomeWork_01_09_2024\WhileHomeWork\obj\Debug\net8.0\ref\WhileHomeWork.dll

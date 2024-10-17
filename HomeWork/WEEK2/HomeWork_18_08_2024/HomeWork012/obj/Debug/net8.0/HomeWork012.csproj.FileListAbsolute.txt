@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\bin\Debug\net8.0\HomeWork012.exe
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\bin\Debug\net8.0\HomeWork012.deps.json
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\bin\Debug\net8.0\HomeWork012.runtimeconfig.json
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\bin\Debug\net8.0\HomeWork012.dll
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\bin\Debug\net8.0\HomeWork012.pdb
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.AssemblyInfo.cs
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.dll
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\refint\HomeWork012.dll
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.pdb
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\HomeWork012.genruntimeconfig.cache
+C:\Users\samet\Desktop\HomeWork_18_08_2024\HomeWork012\obj\Debug\net8.0\ref\HomeWork012.dll

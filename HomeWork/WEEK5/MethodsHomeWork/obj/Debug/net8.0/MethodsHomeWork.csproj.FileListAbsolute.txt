@@ -1,0 +1,15 @@
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\bin\Debug\net8.0\MethodsHomeWork.exe
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\bin\Debug\net8.0\MethodsHomeWork.deps.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\bin\Debug\net8.0\MethodsHomeWork.runtimeconfig.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\bin\Debug\net8.0\MethodsHomeWork.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\bin\Debug\net8.0\MethodsHomeWork.pdb
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.AssemblyInfoInputs.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.AssemblyInfo.cs
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.csproj.CoreCompileInputs.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.sourcelink.json
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\refint\MethodsHomeWork.dll
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.pdb
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.genruntimeconfig.cache
+D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\ref\MethodsHomeWork.dll
