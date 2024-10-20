@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        DateTime şimTar = DateTime.Now;
+        Console.WriteLine($"Şu anki tarih ve saat: {şimTar}");
     }
 }

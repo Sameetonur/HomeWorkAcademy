@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        DateTime suan = DateTime.Now;
+
+        string ayAdi = suan.ToString("MMMM");
+
+        Console.WriteLine($"Şu anki ay => {ayAdi}");
     }
 }

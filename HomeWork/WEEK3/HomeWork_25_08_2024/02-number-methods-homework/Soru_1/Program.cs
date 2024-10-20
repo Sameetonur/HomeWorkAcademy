@@ -4,6 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Bir ondalıklı sayı girin: ");
+        double sayi = Convert.ToDouble(Console.ReadLine());
+
+
+        int yuvSayi = (int)Math.Round(sayi);
+
+        Console.WriteLine($"En yakın tam sayı: {yuvSayi}");
     }
 }
