@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\bin\Debug\net8.0\HesapMakV4.exe
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\bin\Debug\net8.0\HesapMakV4.deps.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\bin\Debug\net8.0\HesapMakV4.runtimeconfig.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\bin\Debug\net8.0\HesapMakV4.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\bin\Debug\net8.0\HesapMakV4.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.AssemblyInfo.cs
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\refint\HesapMakV4.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\HesapMakV4.genruntimeconfig.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV4\HesapMakV4\obj\Debug\net8.0\ref\HesapMakV4.dll

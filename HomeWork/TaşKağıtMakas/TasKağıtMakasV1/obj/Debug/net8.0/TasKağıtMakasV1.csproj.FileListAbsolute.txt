@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\bin\Debug\net8.0\TasKağıtMakasV1.exe
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\bin\Debug\net8.0\TasKağıtMakasV1.deps.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\bin\Debug\net8.0\TasKağıtMakasV1.runtimeconfig.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\bin\Debug\net8.0\TasKağıtMakasV1.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\bin\Debug\net8.0\TasKağıtMakasV1.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.AssemblyInfo.cs
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\refint\TasKağıtMakasV1.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\TasKağıtMakasV1.genruntimeconfig.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\TaşKağıtMakas\TasKağıtMakasV1\obj\Debug\net8.0\ref\TasKağıtMakasV1.dll

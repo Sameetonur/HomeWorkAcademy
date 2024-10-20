@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.AssemblyInfo.cs
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\bin\Debug\net8.0\HesapMakV3.exe
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\bin\Debug\net8.0\HesapMakV3.deps.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\bin\Debug\net8.0\HesapMakV3.runtimeconfig.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\bin\Debug\net8.0\HesapMakV3.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\bin\Debug\net8.0\HesapMakV3.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\refint\HesapMakV3.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\HesapMakV3.genruntimeconfig.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\HesapMak\HesapMakV3\HesapMakV3\obj\Debug\net8.0\ref\HesapMakV3.dll

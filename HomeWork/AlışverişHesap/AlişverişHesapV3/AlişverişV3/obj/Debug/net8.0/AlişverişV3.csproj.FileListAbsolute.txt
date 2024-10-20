@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\bin\Debug\net8.0\AlişverişV3.exe
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\bin\Debug\net8.0\AlişverişV3.deps.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\bin\Debug\net8.0\AlişverişV3.runtimeconfig.json
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\bin\Debug\net8.0\AlişverişV3.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\bin\Debug\net8.0\AlişverişV3.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.AssemblyInfo.cs
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\refint\AlişverişV3.dll
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.pdb
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\AlişverişV3.genruntimeconfig.cache
+C:\Users\samet\Desktop\OrhanHocaÖdev\AlışverişHesap\AlişverişHesapV3\AlişverişV3\obj\Debug\net8.0\ref\AlişverişV3.dll

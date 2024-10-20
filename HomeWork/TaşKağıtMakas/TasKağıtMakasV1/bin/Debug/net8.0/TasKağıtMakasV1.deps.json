@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TasKağıtMakasV1/1.0.0": {
+        "runtime": {
+          "TasKağıtMakasV1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TasKağıtMakasV1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
