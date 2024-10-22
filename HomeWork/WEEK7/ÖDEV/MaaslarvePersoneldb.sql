@@ -60,7 +60,7 @@ GO
 
 --1.SORGU----
 -- SELECT 
-   
+
 --     p.PersonelAd +' '+p.PersonelSoyad AS [Personel],
 --     MAX(m.MaasMiktari) AS [Güncel Maaşlar]
 
@@ -92,35 +92,106 @@ GO
 --         AS SonMaaşlar;
 
 --3.SORGU----
+-- SELECT p.Pozisyon, MAX(m.MaasMiktari) AS EnYuksekMaas, MIN(m.MaasMiktari) AS EnDusukMaas
+-- FROM Personel p
+--     JOIN Maaslar m ON p.PersonelID = m.PersonelID
+-- WHERE m.GuncellemeTarihi = (
+--     SELECT MAX(GuncellemeTarihi)
+-- FROM Maaslar
+-- WHERE PersonelID = p.PersonelID
+-- )
+-- GROUP BY p.Pozisyon;
 
 
 
 
 --4.SORGU----
+-- SELECT PersonelAd, PersonelSoyad, Pozisyon
+-- FROM Personel;
 
 
 
 
 --5.SORGU----
+-- SELECT Pozisyon, COUNT(*) AS PersonelSayisi
+-- FROM Personel
+-- GROUP BY Pozisyon;
 
 
 
 --6.SORGU----
+-- SELECT p.PersonelAd, p.PersonelSoyad, m.MaasMiktari, m.GuncellemeTarihi
+-- FROM Personel p
+--     JOIN Maaslar m ON p.PersonelID = m.PersonelID
+-- WHERE m.GuncellemeTarihi = (
+--     SELECT MAX(GuncellemeTarihi)
+-- FROM Maaslar
+-- WHERE PersonelID = p.PersonelID
+-- );
 
 
 
 --7.SORGU----
+-- SELECT PersonelAd, PersonelSoyad, Pozisyon
+-- FROM Personel
+-- WHERE Pozisyon = 'Öğretmen';
 
 
 
 --8.SORGU----
+-- SELECT TOP 1
+--     p.PersonelAd, p.PersonelSoyad, m.MaasMiktari
+-- FROM Personel p
+--     JOIN Maaslar m ON p.PersonelID = m.PersonelID
+-- WHERE m.GuncellemeTarihi = (
+--     SELECT MAX(GuncellemeTarihi)
+-- FROM Maaslar
+-- WHERE PersonelID = p.PersonelID
+-- )
+-- ORDER BY m.MaasMiktari DESC
+
 
 
 --9.SORGU----
+-- SELECT p.PersonelAd, p.PersonelSoyad, m.MaasMiktari, m.GuncellemeTarihi
+-- FROM Personel p
+--     JOIN Maaslar m ON p.PersonelID = m.PersonelID
+-- WHERE p.PersonelID = 1
 
+-- ORDER BY m.GuncellemeTarihi ASC;
 
 
 --10.SORGU----
+-- SELECT p.Pozisyon, MAX(m.MaasMiktari) AS EnYuksekMaas, MIN(m.MaasMiktari) AS EnDusukMaas
+-- FROM Personel p
+--     JOIN Maaslar m ON p.PersonelID = m.PersonelID
+-- WHERE m.GuncellemeTarihi = (
+--     SELECT MAX(GuncellemeTarihi)
+-- FROM Maaslar
+-- WHERE PersonelID = p.PersonelID
+-- )
+-- GROUP BY p.Pozisyon
+-- HAVING COUNT(m.PersonelID) > 1;
+
+-- --11.SORGU----
+-- SELECT p.PersonelAd, p.PersonelSoyad, m.GuncellemeTarihi
+-- FROM Personel p
+--     JOIN Maaslar m ON p.PersonelID = m.PersonelID
+-- WHERE m.GuncellemeTarihi > DATEADD(MONTH, -6, GETDATE());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
