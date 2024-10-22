@@ -50,5 +50,104 @@ VALUES
     (5, 'Üye', '2023-06-15'),
     (5, 'Sekreter', '2023-09-01');
 
+--SORGULAR--
+-- 3.
+-- **
+-- Sorgular:
+-- ** Aşağıdaki işlemleri
+-- yapın:
+
+--1 -  Tüm kulüp üyelerinin adlarını, soyadlarını ve hangi kulüpte yer aldıklarını listeleyin.
+-- (`JOIN`)
+SELECT o.OgrencıID, o.Rol, k.KulupAdi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID;
+
+
+--2       -  "Tiyatro Kulübü" üyelerini ve rollerini listeleyin.
+-- (`WHERE` ve `JOIN`)
+SELECT o.OgrencıID, o.Rol, k.KulupAdi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+WHERE k.KulupAdi = 'Tiyatro Kulübü';
+
+
+--3      -  Tüm kulüplerde başkan olarak görev yapan öğrencileri listeleyin.
+-- (`WHERE`)
+SELECT o.OgrencıID, o.Rol, k.KulupAdi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+WHERE o.Rol = 'Başkan';
+
+
+--4       -  Her kulübün kaç üyesi olduğunu listeleyin.
+-- (`GROUP BY` ve `COUNT`)
+SELECT k.KulupAdi, COUNT(o.OgrencıID) AS UyeSayisi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+GROUP BY k.KulupAdi;
+
+--5       -  Kuruluş yılı en eski olan kulübün üyelerini listeleyin.
+-- (`ORDER BY` ve `JOIN`)
+
+SELECT o.OgrencıID, o.Rol, k.KulupAdi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+WHERE k.KurulusYili = (SELECT MIN(KurulusYili)
+FROM Kulüpler);
+
+
+-- 6      -  Öğrencilerin hangi tarihte hangi kulübe katıldıklarını listeleyin.
+-- (`
+-- SELECT` ve
+-- `JOIN`)
+
+SELECT o.OgrencıID, o.KatilimTarihi, k.KulupAdi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+ORDER BY o.KatilimTarihi;
+
+
+--7      -  "Müzik Kulübü"nde bulunan tüm rollerin bir listesini çıkarın.
+-- (`WHERE` ve `DISTINCT`)
+
+SELECT DISTINCT o.Rol
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+WHERE k.KulupAdi = 'Müzik Kulübü';
+
+
+
+-- 8     -  Her kulüpte kaç başkan olduğunu gruplandırarak listeleyin.
+-- (`GROUP BY` ve `COUNT`)
+
+SELECT k.KulupAdi, COUNT(o.OgrencıID) AS BaskanSayisi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+WHERE o.Rol = 'Başkan'
+GROUP BY k.KulupAdi;
+
+
+-- 9      -  Hangi öğrenci en son hangi kulübe katılmış, bu bilgiyi listeleyin.
+-- (`JOIN` ve `ORDER BY`)
+
+SELECT o.OgrencıID, o.KatilimTarihi, k.KulupAdi
+FROM OgrenciKulup o
+    JOIN Kulüpler k ON o.KulupID = k.KulupID
+ORDER BY o.KatilimTarihi DESC
+
+
+
+-- 10     -  Birden fazla kulüpte yer alan öğrencileri ve katıldıkları kulüpleri listeleyin.
+-- (`GROUP BY` ve `HAVING`)
+
+SELECT o.OgrencıID, COUNT(o.KulupID) AS KulupSayisi
+FROM OgrenciKulup o
+GROUP BY o.OgrencıID
+HAVING COUNT(o.KulupID) > 1;
+
+
+
+
 
 
