@@ -191,29 +191,147 @@ class Program
     #endregion
 
     #region Soru12 Method
+    // static string HaftaninGunu(DateTime tarih)
+    // {
+    //     return tarih.DayOfWeek.ToString();
+    // }
+
+    #endregion
+
+    #region Soru13 Metod
+
+    // public static int KelimeSayisi(string metin)
+    // {
+    //     
+    //     string[] kelimeler = metin.Split(new char[] { ' ', '.', ',', '!', '?', ';', ':', '-' }, StringSplitOptions.RemoveEmptyEntries);    
+    //     return kelimeler.Length;
+    // }
+
+    #endregion
+
+    #region Soru14 Method
+
+    // public static int GunSayisi(DateTime tarih1, DateTime tarih2)
+    // {
+    //     TimeSpan fark = tarih2 - tarih1;
+    //     return Math.Abs(fark.Days); 
+    // }
+
+
+    #endregion
+
+    #region Soru15 Method
+
+    // public static double Ortalama(int[] dizi)
+    // {
+
+    //     int toplamElemanSayisi = dizi.Length;
+    //     if (toplamElemanSayisi == 0)
+    //     {
+    //         return 0; 
+    //     }
+
+    //     int toplam = 0;
+    //     for (int i = 0; i < toplamElemanSayisi; i++)
+    //     {
+    //         toplam += dizi[i];
+    //     }
+    //     return (double)toplam / toplamElemanSayisi;
+    // }
+
+    #endregion
+    #region Soru16 Method
+
+
+    #endregion
+
+    #region Soru17 Method
+
+    // public static int SayiyiSay(List<int> liste, int sayi)
+    // {
+    //     int sayac = 0; 
+
+    //     foreach (int eleman in liste)
+    //     {
+    //         if (eleman == sayi) 
+    //         {
+    //             sayac++; 
+    //         }
+    //     }
+    //     return sayac; 
+    // }
+
+    #endregion
+
+    #region Soru18 Method
+
+    // public static string IsımDön(string ad, string soyad)
+    // {
+    //     return ad + " " + soyad; 
+    // }
+
+    #endregion
+
+    #region Soru19 Method
+
+    // public static List<int> AsalSayilariBul(int altSınır, int üstSınır)
+    // {
+    //     List<int> asalSayilar = new List<int>(); 
+
+    //     for (int sayi = altSınır; sayi <= üstSınır; sayi++)
+    //     {
+    //         if (AsalMi(sayi)) 
+    //         {
+    //             asalSayilar.Add(sayi); 
+    //         }
+    //     }
+
+    //     return asalSayilar; 
+    // }
+    // private static bool AsalMi(int sayi)
+    // {
+    //     if (sayi <= 1) return false; 
+
+    //     for (int i = 2; i <= Math.Sqrt(sayi); i++)
+    //     {
+    //         if (sayi % i == 0) return false; 
+    //     }
+
+    //     return true; 
+    // }
+
+
+    #endregion
+
+    #region Soru20 Method
+
+    // public static string StringleriBirleştir(string[] dizi)
+    // {
+    //     string birlesikString = ""; 
+
+    //     foreach (string eleman in dizi)
+    //     {
+    //         birlesikString += eleman;
+    //     }
+
+    //     return birlesikString;
+
+    //     #endregion
+    // }    
+    
         
-            
     #endregion
 
 
     static void Main(string[] args)
     {
-        #region Soru1
+
 
         //  System.Console.WriteLine("Bir yaş giriniz => ");
         //  int input = int.Parse(Console.ReadLine());
         // YasBulma(input);
 
-        #endregion
-
-        #region Soru2
-
-
         //    İkiSayBüyBul(5,8);
-
-        #endregion
-
-        #region soru3
 
 
         // Console.Write("Bir kelime girin: ");
@@ -221,35 +339,13 @@ class Program
         // System.Console.WriteLine(KelTerÇev(kullaniciKelime));
 
 
-
-
-        #endregion
-
-        #region soru4
-
-
         // System.Console.WriteLine(Ort(50,90));
-
-        #endregion
-
-        #region soru5
 
 
         // string[] mehmet= {"ahmet","murat","elif","burak","aleyna"};
-
         // TersÇev(mehmet);
 
-        #endregion
-
-        #region soru6
-
-
         // TekCift(858);
-
-        #endregion
-
-        #region Soru7
-
 
         // System.Console.WriteLine("Saat giriniz (0-23)");
         // int input1 = int.Parse(Console.ReadLine());
@@ -259,37 +355,24 @@ class Program
         // int input3 = int.Parse(Console.ReadLine());
 
         // System.Console.WriteLine(Tarih(input1,input2,input3));  
-        #endregion
 
-        #region Soru8
         // System.Console.WriteLine($"{FahÇevirme(50)}Fah");
 
-
-        #endregion
-
-        #region soru9
         // int[] dizi = {11,10,51,100,55,99,};
 
         // System.Console.WriteLine(EnKucukSay(dizi));
 
-        #endregion
-
-        #region Soru10
-
         // int[] dizi = { 5, 5, 5, 5, 5, 5,};
 
         // System.Console.WriteLine(DiziTop(dizi));
-        #endregion
-
-        #region Soru11
 
         // string nwedizi = "mehmetkerimie";
 
         // System.Console.WriteLine(SesliBulma(nwedizi));
-        #endregion
 
-        #region Soru12
-            
-        #endregion
+
+
+
+
     }
 }

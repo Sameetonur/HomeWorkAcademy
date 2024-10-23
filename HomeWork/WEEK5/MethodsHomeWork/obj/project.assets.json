@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHubb\\BackhandAcademyBootcamp\\HomeWork\\WEEK5\\MethodsHomeWork\\MethodsHomeWork.csproj",
+      "projectUniqueName": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK5\\MethodsHomeWork\\MethodsHomeWork.csproj",
       "projectName": "MethodsHomeWork",
-      "projectPath": "D:\\GitHubb\\BackhandAcademyBootcamp\\HomeWork\\WEEK5\\MethodsHomeWork\\MethodsHomeWork.csproj",
+      "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK5\\MethodsHomeWork\\MethodsHomeWork.csproj",
       "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHubb\\BackhandAcademyBootcamp\\HomeWork\\WEEK5\\MethodsHomeWork\\obj\\",
+      "outputPath": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK5\\MethodsHomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

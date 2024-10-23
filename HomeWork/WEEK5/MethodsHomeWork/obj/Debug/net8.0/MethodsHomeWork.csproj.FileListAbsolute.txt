@@ -13,3 +13,11 @@ D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8
 D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.pdb
 D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.genruntimeconfig.cache
 D:\GitHubb\BackhandAcademyBootcamp\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\ref\MethodsHomeWork.dll
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.AssemblyInfoInputs.cache
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.AssemblyInfo.cs
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.csproj.CoreCompileInputs.cache
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.sourcelink.json
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.dll
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\refint\MethodsHomeWork.dll
+D:\GitHubb\HomeWorkAcademy\HomeWork\WEEK5\MethodsHomeWork\obj\Debug\net8.0\MethodsHomeWork.pdb
