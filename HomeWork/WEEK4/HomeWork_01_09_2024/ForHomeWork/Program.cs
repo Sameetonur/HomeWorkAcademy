@@ -252,7 +252,6 @@ class Program
         //         {
         //             isPrime=false;
         //             break;
-
         //         }   
         //     }   
         // }
