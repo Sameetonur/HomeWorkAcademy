@@ -6,44 +6,34 @@ class Program
     {
         #region Soru1
 
+        int enBuyuk = int.MinValue;
+        int enKucuk = int.MaxValue;
+
+        int sayac = 0;
+
+        while (sayac < 5)
+        {
+            Console.Write((sayac + 1) + ". sayıyı girin: ");
+            int sayi = int.Parse(Console.ReadLine());
+
+            if (sayi > enBuyuk)
+            {
+                enBuyuk = sayi;
+            }
+
+            if (sayi < enKucuk)
+            {
+                enKucuk = sayi;
+            }
+            sayac++;
+        }
+        Console.WriteLine("En Büyük = " + enBuyuk);
+        Console.WriteLine("En Küçük = " + enKucuk);
+
 
         #endregion
 
-        #region Soru2
 
-        #endregion
-
-        #region soru3
-
-        #endregion
-
-        #region Soru4
-
-        #endregion
-
-        #region Soru5
-
-        #endregion
-
-        #region Soru6
-
-
-        #endregion
-
-        #region Soru7
-
-        #endregion
-
-        #region Soru8
-
-        #endregion
-
-        #region Soru9
-
-        #endregion
-
-        #region Soru10
-
-        #endregion
+#endregion
     }
 }
