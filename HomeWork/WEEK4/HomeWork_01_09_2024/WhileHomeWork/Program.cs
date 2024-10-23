@@ -19,8 +19,6 @@ class Program
 
         //     top = top + sayi;
 
-
-
         // } while (sayi != 0);
         // System.Console.WriteLine($"İşlemin sonucu =>{top}");
 
@@ -41,7 +39,6 @@ class Program
         //     metin = Console.ReadLine();
 
         //     çevMetin = metin.ToUpper();
-
 
         // } while (false);
         // System.Console.WriteLine(çevMetin);
@@ -98,12 +95,10 @@ class Program
         // Console.Write("Bir pozitif tam sayı girin: ");
         // string sayi = Console.ReadLine();
 
-
         // int uzunluk = sayi.Length;
         // int index = uzunluk - 1;
 
         // string tersSayi = "";
-
 
         // while (index >= 0)
         // {
@@ -127,32 +122,126 @@ class Program
         //         int uzunluk = metin.Length;
         //         int index = uzunluk - 1;
 
-
-
         //         while (index >= 0)
         //         {
         //             tersMetin = tersMetin+metin[index];
         //             index--;
-
         //         }
-
         //         System.Console.WriteLine($"Girilen metin => {metin}// Çevrilmiş hali => {tersMetin} ");
 
         #endregion
 
         #region Soru7
+        // Console.Write("Bir pozitif tam sayı girin: ");
+        // int sayi = int.Parse(Console.ReadLine());
+
+        // Console.Write("Bir üst sınır değeri girin: ");
+        // int ustSinir = int.Parse(Console.ReadLine());
+
+        // while (sayi <= ustSinir)
+        // {
+        //     Console.WriteLine("Sayı: " + sayi);
+
+        //     sayi *= 2;
+        // }
+
+        // Console.WriteLine("Döngü bitti, sayı üst sınırı aştı.");
 
         #endregion
 
         #region Soru8
 
+        // int sayi;
+        // int toplam = 0; 
+        // int sayac = 0; 
+
+        // while (true)
+        // {
+        //     Console.Write("Bir pozitif tam sayı girin (Programdan çıkmak için 100'den büyük bir sayı girin): ");
+        //     sayi = int.Parse(Console.ReadLine());
+
+        //     if (sayi > 100)
+        //     {
+        //         break;
+        //     }
+
+        //     toplam += sayi;
+        //     sayac++;
+        // }
+
+        // double ortalama = (sayac > 0) ? (double)toplam / sayac : 0;
+
+        // Console.WriteLine("Girilen sayı adedi: " + sayac);
+        // Console.WriteLine("Girilen sayıların toplamı: " + toplam);
+        // Console.WriteLine("Girilen sayıların ortalaması: " + ortalama);
+
         #endregion
 
         #region Soru9
 
+        // Console.Write("Bir pozitif tam sayı girin: ");
+        // int sayi = int.Parse(Console.ReadLine());
+
+        // int i = 1; 
+
+        // while (i <= sayi)
+        // {
+        //     bool asal = true;
+
+        //     if (i == 1)
+        //     {
+        //         asal = false;
+        //     }
+        //     else
+        //     {
+        //         int bolen = 2;
+        //         while (bolen <= Math.Sqrt(i))
+        //         {
+        //             if (i % bolen == 0)
+        //             {
+        //                 asal = false; 
+        //                 break;
+        //             }
+        //             bolen++;
+        //         }
+        //     }
+
+        //     if (asal)
+        //     {
+        //         Console.WriteLine(i + " - Asal");
+        //     }
+        //     else
+        //     {
+        //         Console.WriteLine(i + " - Asal değil");
+        //     }
+        //     i++;
+
         #endregion
 
         #region Soru10
+
+        // Console.Write("Birinci pozitif tam sayıyı girin: ");
+        // int ilkSayi = int.Parse(Console.ReadLine());
+
+        // Console.Write("İkinci pozitif tam sayıyı girin: ");
+        // int ikinciSayi = int.Parse(Console.ReadLine());
+
+        // if (ilkSayi > ikinciSayi)
+        // {
+        //     int temp = ilkSayi;
+        //     ilkSayi = ikinciSayi;
+        //     ikinciSayi = temp;
+        // }
+
+        // int carpim = 1;
+        // int sayi = ilkSayi;
+
+        // while (sayi <= ikinciSayi)
+        // {
+        //     carpim *= sayi; 
+        //     sayi++; 
+        // }
+        // Console.WriteLine(ilkSayi + " ile " + ikinciSayi + " arasındaki sayıların çarpımı: " + carpim);
 
         #endregion
     }
