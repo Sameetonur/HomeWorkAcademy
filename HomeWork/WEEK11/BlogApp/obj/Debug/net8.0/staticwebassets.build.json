@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sTBPx7ou3ebtV8PUkASxKy/pmReJOaDhhlaXNgJIY3k=",
+  "Hash": "pNonefqdKy4Xr+5y8t7h/vmCq66Er9uA+eAcMmNKap4=",
   "Source": "BlogApp",
   "BasePath": "_content/BlogApp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogApp.styles.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogApp.styles.css",
       "SourceId": "BlogApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlogApp",
       "RelativePath": "BlogApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogApp.styles.css"
+      "OriginalItemSpec": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlogApp.styles.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css",
       "SourceId": "BlogApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlogApp",
       "RelativePath": "BlogApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,10 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css"
+      "OriginalItemSpec": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\css\\site.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\css\\site.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\favicon.ico",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\favicon.ico",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -93,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\js\\site.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\js\\site.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -112,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -131,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -150,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -169,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -188,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -207,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -226,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -245,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -264,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -283,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -302,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -321,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -359,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -378,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -397,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -416,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -435,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -454,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -473,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -492,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -511,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -530,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -549,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -568,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -587,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -606,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -625,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -644,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -682,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -701,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -720,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -739,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -758,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -777,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -796,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -834,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -853,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -872,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -891,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -910,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -929,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -948,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -967,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1005,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1024,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1043,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1062,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1081,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1100,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1119,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1138,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1157,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1176,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BlogApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
@@ -1193,6 +1193,82 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\resimlerim\\resim1.jpg",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "resimlerim/resim1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resimlerim\\resim1.jpg"
+    },
+    {
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\resimlerim\\resim1.png",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "resimlerim/resim1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resimlerim\\resim1.png"
+    },
+    {
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\resimlerim\\resim12.webp",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "resimlerim/resim12.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resimlerim\\resim12.webp"
+    },
+    {
+      "Identity": "d:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\resimlerim\\resim3.jpg",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "resimlerim/resim3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resimlerim\\resim3.jpg"
     }
   ]
 }
