@@ -11,7 +11,7 @@ namespace BlogApp.Controllers
         {
             contactModels = [
                 new ContactModel {
-                     AdSoyad="Samet Önür" , Email="Sametoonur@gmail.com", Konu="C# MVC yapısı oluşturmak istiyorum", Mesaj="Merhabalar bana ulaşmak için bu alanı kullanabilirsiniz."
+                     AdSoyad="Samet Önür" , Email="Sametoonur@gmail.com" 
                 }
             ];
 
