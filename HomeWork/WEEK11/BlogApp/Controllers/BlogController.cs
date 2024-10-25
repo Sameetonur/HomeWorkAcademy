@@ -67,7 +67,6 @@ namespace BlogApp.Controllers
         }
         public ActionResult Index()
         {
-
             ViewData["BlogModelList"] = blogModeList;
             return View();
         }
