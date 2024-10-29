@@ -18,7 +18,7 @@ namespace BlogApp.Controllers
         {
             AboutModel about = new AboutModel { AdSoyad = "Samet Önür", Aciklama = "Merhaba ben Samet Önür 2000 doğumluyum Düzce ünviersitesi Bilgisayar Programcılığı mezunuyuyum. Kendimi bu alanda geliştirmek için Acunmedya Akademide Back-End Uzmanlık eğitimi alıyorum.", Resim = "/resimlerim/resim1.jpg" };
 
-            List<LinkModel> links = new List<LinkModel>();
+            List<LinkModel> links = new List<LinkModel>();  
 
             links.Add(new LinkModel
             {

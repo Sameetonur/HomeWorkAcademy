@@ -25,7 +25,7 @@ namespace BlogApp.Controllers
         public ActionResult Index()
         {
 
-            ViewBag.CategoryList=categoryModels;
+            ViewBag.CategoryList = categoryModels;
             return View();
         }
 
