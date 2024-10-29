@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj": {}
+    "D:\\GitHubb\\HomeWorkAcademy\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj": {}
   },
   "projects": {
-    "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj": {
+    "D:\\GitHubb\\HomeWorkAcademy\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj",
+        "projectUniqueName": "D:\\GitHubb\\HomeWorkAcademy\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj",
         "projectName": "BlogApp",
-        "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj",
+        "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\BlogApp.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubb\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\",
+        "outputPath": "D:\\GitHubb\\HomeWorkAcademy\\HomeWorkAcademy\\HomeWork\\WEEK11\\BlogApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

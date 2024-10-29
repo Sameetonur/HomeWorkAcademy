@@ -1,5 +1,6 @@
 @{
     ViewData["Title"] = "Index";
+    List<BlogModel> bloglist = (List<BlogModel>)ViewData["BlogModelList"];
 }
 <h1
     style=" justify-content: center;  display: flex;  border: 1px solid black; padding: 5px; font-size: 35px; background-color: azure; border-radius: 7px; box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.5); ; ">
@@ -7,7 +8,7 @@
 
 <div class="container">
     <div class="row">
-        @foreach (var blog in (List<BlogModel>)ViewData["BlogModelList"])
+        @foreach (var blog in bloglist)
         {
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="card">
