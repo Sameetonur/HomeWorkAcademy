@@ -20,6 +20,9 @@ GROUP BY P.ProductName
 
 --3.SORGU
 --Çalışanların yöneticilerini (FirstName ve LastName) listeleyin. Yöneticisi olmayan çalışanlar da listelenmelidir. 
+SELECT e.EmployeeID, e.FirstName, e.LastName, m.FirstName AS ManagerFirstName, m.LastName AS ManagerLastName
+FROM Employees e
+    LEFT JOIN Employees m ON e.ReportsTo = m.EmployeeID;
 
 --4.SORGU
 --Her bir tedarikçinin sağladığı ürünlerin ortalama fiyatını hesaplayın, ancak sadece 10'dan fazla ürün sağlayan tedarikçileri listeleyin.
@@ -83,14 +86,34 @@ having (select avg(DATEDIFF(day,o.ShippedDate,o.RequiredDate))
 from Orders o )<avg(DATEDIFF(day,o.ShippedDate,o.RequiredDate))
 
 -- 9. Aynı gün içinde birden fazla sipariş veren müşterileri ve bu siparişlerin tarihlerini listeleyin.
+SELECT CustomerID, OrderDate, COUNT(OrderID) AS OrderCount
+FROM Orders
+GROUP BY CustomerID, OrderDate
+HAVING COUNT(OrderID) > 1;
 
 -- 10. Çalışanların yaptığı satışları yıllık bazda karşılaştırın ve her yıl için en başarılı çalışanı bulun.
 
 -- 11. Hem 1997 hem de 1998 yıllarında sipariş vermiş müşterileri listeleyin.
-
+    SELECT CustomerID
+    FROM Orders
+    WHERE YEAR(OrderDate) = 1997
+INTERSECT
+    SELECT CustomerID
+    FROM Orders
+    WHERE YEAR(OrderDate) = 1998;
 -- 12. Hiç sipariş almamış çalışanları bulun (eğer varsa).
+SELECT EmployeeID, FirstName, LastName
+FROM Employees
+WHERE EmployeeID NOT IN (SELECT DISTINCT EmployeeID
+FROM Orders);
 
 -- 13. Her bir ülke için, o ülkedeki müşterilerin verdiği siparişlerin ortalama tutarını hesaplayın, ancak sadece toplam sipariş tutarı 5000'den fazla olan ülkeleri listeleyin.
+SELECT c.Country, AVG(od.Quantity * od.UnitPrice) AS AvgOrderAmount
+FROM Customers c
+    JOIN Orders o ON c.CustomerID = o.CustomerID
+    JOIN OrderDetails od ON o.OrderID = od.OrderID
+GROUP BY c.Country
+HAVING SUM(od.Quantity * od.UnitPrice) > 5000;
 
 -- 14. En az 5 farklı ürün sipariş etmiş ve toplam sipariş tutarı 10000'den fazla olan müşterileri bulun.
 
@@ -120,12 +143,30 @@ group by o.EmployeeID
 -- 16. Ürünleri, bulundukları kategorinin ortalama fiyatına göre "Ucuz", "Ortalama" veya "Pahalı" olarak sınıflandırın.
 
 -- 17. Her bir kargo şirketi için, taşıdıkları siparişlerin ortalama ağırlığını hesaplayın (Freight).
-
+SELECT s.ShipperID, s.CompanyName, AVG(o.Freight) AS AvgFreight
+FROM Shippers s
+    JOIN Orders o ON s.ShipperID = o.ShipVia
+GROUP BY s.ShipperID, s.CompanyName;
 -- 18. En az 10 farklı müşteriye satılmış ürünleri ve bu ürünlerin satıldığı benzersiz müşteri sayısını listeleyin.
+SELECT ProductID, COUNT(DISTINCT CustomerID) AS UniqueCustomerCount
+FROM OrderDetails od
+    JOIN Orders o ON od.OrderID = o.OrderID
+GROUP BY ProductID
+HAVING COUNT(DISTINCT CustomerID) >= 10;
 
 -- 19. Her bir çalışanın, her bir müşteriye yaptığı toplam satış tutarını bulun ve sadece 5000'den fazla satış yapılan müşteri-çalışan çiftlerini listeleyin.
+SELECT o.EmployeeID, o.CustomerID, SUM(od.Quantity * od.UnitPrice) AS TotalSales
+FROM Orders o
+    JOIN OrderDetails od ON o.OrderID = od.OrderID
+GROUP BY o.EmployeeID, o.CustomerID
+HAVING SUM(od.Quantity * od.UnitPrice) > 5000;
 
 -- 20. Her bir tedarikçinin sağladığı ürünlerin toplam satış miktarını hesaplayın ve tedarikçileri bu miktara göre sıralayın.
+SELECT p.SupplierID, SUM(od.Quantity) AS TotalQuantitySold
+FROM Products p
+    JOIN OrderDetails od ON p.ProductID = od.ProductID
+GROUP BY p.SupplierID
+ORDER BY TotalQuantitySold DESC;
 
                 
 
