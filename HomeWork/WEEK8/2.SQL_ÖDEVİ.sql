@@ -86,7 +86,7 @@ having (select avg(DATEDIFF(day,o.ShippedDate,o.RequiredDate))
 from Orders o )<avg(DATEDIFF(day,o.ShippedDate,o.RequiredDate))
 
 -- 9. Aynı gün içinde birden fazla sipariş veren müşterileri ve bu siparişlerin tarihlerini listeleyin.
-SELECT CustomerID, OrderDate, COUNT(OrderID) AS OrderCount
+SELECT CustomerID, OrderDate, COUNT(OrderID) AS SiparisSayısı
 FROM Orders
 GROUP BY CustomerID, OrderDate
 HAVING COUNT(OrderID) > 1;
@@ -108,7 +108,7 @@ WHERE EmployeeID NOT IN (SELECT DISTINCT EmployeeID
 FROM Orders);
 
 -- 13. Her bir ülke için, o ülkedeki müşterilerin verdiği siparişlerin ortalama tutarını hesaplayın, ancak sadece toplam sipariş tutarı 5000'den fazla olan ülkeleri listeleyin.
-SELECT c.Country, AVG(od.Quantity * od.UnitPrice) AS AvgOrderAmount
+SELECT c.Country, AVG(od.Quantity * od.UnitPrice) AS SiparisOrt
 FROM Customers c
     JOIN Orders o ON c.CustomerID = o.CustomerID
     JOIN OrderDetails od ON o.OrderID = od.OrderID
@@ -143,30 +143,30 @@ group by o.EmployeeID
 -- 16. Ürünleri, bulundukları kategorinin ortalama fiyatına göre "Ucuz", "Ortalama" veya "Pahalı" olarak sınıflandırın.
 
 -- 17. Her bir kargo şirketi için, taşıdıkları siparişlerin ortalama ağırlığını hesaplayın (Freight).
-SELECT s.ShipperID, s.CompanyName, AVG(o.Freight) AS AvgFreight
+SELECT s.ShipperID, s.CompanyName, AVG(o.Freight) AS OrtAğırlık
 FROM Shippers s
     JOIN Orders o ON s.ShipperID = o.ShipVia
 GROUP BY s.ShipperID, s.CompanyName;
 -- 18. En az 10 farklı müşteriye satılmış ürünleri ve bu ürünlerin satıldığı benzersiz müşteri sayısını listeleyin.
-SELECT ProductID, COUNT(DISTINCT CustomerID) AS UniqueCustomerCount
+SELECT ProductID, COUNT(DISTINCT CustomerID) AS BenzersizMüşSay
 FROM OrderDetails od
     JOIN Orders o ON od.OrderID = o.OrderID
 GROUP BY ProductID
 HAVING COUNT(DISTINCT CustomerID) >= 10;
 
 -- 19. Her bir çalışanın, her bir müşteriye yaptığı toplam satış tutarını bulun ve sadece 5000'den fazla satış yapılan müşteri-çalışan çiftlerini listeleyin.
-SELECT o.EmployeeID, o.CustomerID, SUM(od.Quantity * od.UnitPrice) AS TotalSales
+SELECT o.EmployeeID, o.CustomerID, SUM(od.Quantity * od.UnitPrice) AS ToplamSatis
 FROM Orders o
     JOIN OrderDetails od ON o.OrderID = od.OrderID
 GROUP BY o.EmployeeID, o.CustomerID
 HAVING SUM(od.Quantity * od.UnitPrice) > 5000;
 
 -- 20. Her bir tedarikçinin sağladığı ürünlerin toplam satış miktarını hesaplayın ve tedarikçileri bu miktara göre sıralayın.
-SELECT p.SupplierID, SUM(od.Quantity) AS TotalQuantitySold
+SELECT p.SupplierID, SUM(od.Quantity) AS ToplamSatısMik
 FROM Products p
     JOIN OrderDetails od ON p.ProductID = od.ProductID
 GROUP BY p.SupplierID
-ORDER BY TotalQuantitySold DESC;
+ORDER BY ToplamSatısMik DESC;
 
                 
 
