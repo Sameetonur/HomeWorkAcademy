@@ -1,0 +1,30 @@
+@model Product
+@{
+    ViewData["Title"] = "Details";
+}
+
+@if (Model != null)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-4">
+                <div class="card">
+                    <img src="@Model.Image" class="card-img-top" alt="@Model.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Title</h5>
+                        <p class="card-text">@Model.Description</p>
+                        <p class="card-text">Price: $@Model.Price</p>
+                        <p class="card-text">Brand: @Model.Brand</p>
+                        <p class="card-text">Model: @Model.Model</p>
+                        <p class="card-text">Category: @Model.Category</p>
+                        <p class="card-text">Discount: @Model.Discount%</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">Product not found.</div>
+}

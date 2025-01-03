@@ -1,0 +1,16 @@
+
+@{
+    ViewData["Title"] = "AddProduct";
+}
+
+
+<form method="post" action="/Home/AddProduct">
+    <label for="category">Kategori Seçin:</label>
+    <select id="category" name="category" class="form-control">
+        @foreach (var category in ViewBag.Categories as List<string>)
+        {
+            <option value="@category">@category</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">Ürün Ekle</button>
+</form>
