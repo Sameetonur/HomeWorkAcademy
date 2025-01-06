@@ -1,16 +1,51 @@
-
+@model Product
 @{
-    ViewData["Title"] = "AddProduct";
+    ViewData["Title"] = "Add Product";
 }
 
-
-<form method="post" action="/Home/AddProduct">
-    <label for="category">Kategori Seçin:</label>
-    <select id="category" name="category" class="form-control">
-        @foreach (var category in ViewBag.Categories as List<string>)
-        {
-            <option value="@category">@category</option>
-        }
-    </select>
-    <button type="submit" class="btn btn-primary">Ürün Ekle</button>
-</form>
+<div class="container">
+    <form method="post" asp-action="AddProduct" asp-controller="Home">
+        <div class="mb-3">
+            <label class="form-label">Image</label>
+            <input class="form-control" asp-for="Image" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Title</label>
+            <input class="form-control" asp-for="Title" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Model</label>
+            <input class="form-control" asp-for="Model" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Brand</label>
+            <input class="form-control" asp-for="Brand" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Description</label>
+            <input class="form-control" asp-for="Description" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Color</label>
+            <input class="form-control" asp-for="Color" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Discount</label>
+            <input class="form-control" asp-for="Discount" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input class="form-control" asp-for="Price" />
+        </div>
+        <div class="mb-3">
+            <label for="category">Kategori Seçin:</label>
+            <select id="category" asp-for="Category" class="form-control">
+                @foreach (var category in ViewBag.Categories as List<string>)
+                {
+                    <option value="@category">@category</option>
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Ürün Ekle</button>
+    </form>
+</div>

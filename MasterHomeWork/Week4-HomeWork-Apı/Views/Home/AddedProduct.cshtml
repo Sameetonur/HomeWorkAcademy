@@ -1,0 +1,44 @@
+﻿@model Product
+
+<h1>Ürün Başarıyla Eklendi</h1>
+
+<table class="table">
+    <tr>
+        <th>Resim</th>
+        <td>@Model.Image</td>
+    </tr>
+    <tr>
+        <th>Başlık</th>
+        <td>@Model.Title</td>
+    </tr>
+    <tr>
+        <th>Model</th>
+        <td>@Model.Model</td>
+    </tr>
+    <tr>
+        <th>Marka</th>
+        <td>@Model.Brand</td>
+    </tr>
+    <tr>
+        <th>Açıklama</th>
+        <td>@Model.Description</td>
+    </tr>
+    <tr>
+        <th>Renk</th>
+        <td>@Model.Color</td>
+    </tr>
+    <tr>
+        <th>İndirim Mik.</th>
+        <td>@Model.Discount</td>
+    </tr>
+    <tr>
+        <th>Fiyat</th>
+        <td>@Model.Price</td>
+    </tr>
+    <tr>
+        <th>Kategori</th>
+        <td>@Model.Category</td>
+    </tr
+</table>
+
+<a href="/Home/AddProduct" class="btn btn-primary">Yeni Ürün Ekle</a>
