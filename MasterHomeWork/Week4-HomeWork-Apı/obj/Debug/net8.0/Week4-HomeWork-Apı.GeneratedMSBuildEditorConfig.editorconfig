@@ -30,8 +30,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week4-HomeWork-Apı/Views/Home/GetCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week4-HomeWork-Apı/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week4-HomeWork-Apı/Views/Home/ProductsByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0c0J5Q2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week4-HomeWork-Apı/Views/Shared/Error.cshtml]

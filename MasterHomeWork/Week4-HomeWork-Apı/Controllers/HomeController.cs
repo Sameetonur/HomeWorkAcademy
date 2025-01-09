@@ -98,6 +98,29 @@ public class HomeController : Controller
         return View(addedProduct);
     }
 
+    public async Task<IActionResult> GetCategory()
+    {
+        HttpResponseMessage responseMessage = await _httpClient.GetAsync("products/category");
+        string response = await responseMessage.Content.ReadAsStringAsync();
+        var categoryResponse = JsonConvert.DeserializeObject<CategoryResponse>(response);
+
+        return View(categoryResponse.Categories);
+
+    }
+
+    public async Task<IActionResult> ProductsByCategory(string category)
+    {
+        HttpResponseMessage responseMessage = await _httpClient.GetAsync($"products/category?type={category}");
+        string response = await responseMessage.Content.ReadAsStringAsync();
+        var productResponse = JsonConvert.DeserializeObject<ApiResponse>(response);
+
+        
+
+        return View(productResponse.Products);
+    }
+
+
+
 
 
 
