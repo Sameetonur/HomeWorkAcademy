@@ -1,7 +1,22 @@
+using Microsoft.AspNetCore.SignalR;
+using Microsoft.EntityFrameworkCore;
+using PersonelApp.Data.Abstract;
+using PersonelApp.Data.Concrete;
+using PersonelApp.Data.Concrete.Context;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.AddDbContext<PersonelAppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IPersonRepository, PersonRepository>();
+
+
 
 var app = builder.Build();
 

@@ -7,12 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PersonelApp.Entity\PersonelApp.Entity.csproj" />
+    <ProjectReference Include="..\PersonelApp.Data\PersonelApp.Data.csproj" />
     <ProjectReference Include="..\PersonelApp.Shared\PersonelApp.Shared.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
   </ItemGroup>
 
 </Project>
