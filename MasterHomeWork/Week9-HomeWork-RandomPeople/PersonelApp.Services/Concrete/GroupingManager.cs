@@ -17,31 +17,51 @@ public class GroupingManager : IGroupingService
     }
     public async Task<List<Group>> CreateGroupsAsync(int groupSize)
     {
-        var people = await _context.Persons.Where(p => p.GroupId == null).ToListAsync();
+        // 1. Henüz bir gruba atanmamış kişileri getir
+        var unassignedPeople = await _context.Persons
+            .Where(p => p.GroupId == null)
+            .ToListAsync();
+
+        // 2. Kişileri rastgele karıştır
+        var random = new Random();
+        var randomizedPeople = unassignedPeople
+            .OrderBy(x => random.Next())
+            .ToList();
+
+        // 3. Kaç grup oluşturulacağını hesapla
+        var totalPeople = randomizedPeople.Count;
+        var numberOfGroups = totalPeople / groupSize;
+        if (totalPeople % groupSize != 0)
+            numberOfGroups++;
+
+        // 4. Grupları oluştur
         var groups = new List<Group>();
+        var currentPersonIndex = 0;
 
-        var shuffledPeople = people.OrderBy(x => Guid.NewGuid()).ToList();
-        var groupCount = (int)Math.Ceiling(shuffledPeople.Count / (double)groupSize);
-
-        for (int i = 0; i < groupCount; i++)
+        for (int groupNumber = 1; groupNumber <= numberOfGroups; groupNumber++)
         {
-            var group = new Group
+            // Yeni grup oluştur
+            var newGroup = new Group
             {
-                Name = $"Group {i + 1}",
+                Name = "Group " + groupNumber,
+                People = new List<Person>()
             };
 
-            var groupMembers = shuffledPeople
-                .Skip(i * groupSize)
-                .Take(groupSize)
-                .ToList();
+            // Gruptaki kişi sayısını belirle
+            var peopleToAdd = Math.Min(groupSize, randomizedPeople.Count - currentPersonIndex);
 
-            foreach (var person in groupMembers)
+            // Kişileri gruba ekle
+            for (int i = 0; i < peopleToAdd; i++)
             {
-                person.Group = group;
+                var person = randomizedPeople[currentPersonIndex];
+                person.Group = newGroup;
+                newGroup.People.Add(person);
+                currentPersonIndex++;
             }
 
-            groups.Add(group);
+            groups.Add(newGroup);
         }
+
         return groups;
     }
 
