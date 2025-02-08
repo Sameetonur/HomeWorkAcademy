@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PersonelApp.Service\PersonelApp.Service.csproj" />
+    
+    <ProjectReference Include="..\PersonelApp.Services\PersonelApp.Services.csproj" />
+  
     <ProjectReference Include="..\PersonelApp.Shared\PersonelApp.Shared.csproj" />
   </ItemGroup>
 

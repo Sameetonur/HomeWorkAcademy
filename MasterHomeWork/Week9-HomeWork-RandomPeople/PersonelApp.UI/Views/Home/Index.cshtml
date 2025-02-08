@@ -1,8 +1,71 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model List<Person>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="container">
+    <h2>People List</h2>
+    <a asp-action="Create" class="btn btn-primary mb-3">Add New Person</a>
+
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <div class="input-group">
+                <input type="number" id="groupSize" class="form-control" placeholder="Group Size" min="2" value="2">
+                <button onclick="createGroups()" class="btn btn-success">Create Groups</button>
+            </div>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Email</th>
+                <th>Type</th>
+                <th>Group</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var person in Model)
+            {
+                <tr>
+                    <td>@person.Name</td>
+                    <td>@person.Surname</td>
+                    <td>@person.Email</td>
+                    <td>@person.PersonType</td>
+                    <td>@(person.Group?.Name ?? "-")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@person.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@person.Id" class="btn btn-danger btn-sm"
+                            onclick="return confirm('Are you sure?')">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div id="groupsContainer"></div>
 </div>
+
+@section Scripts {
+    <script>
+        function createGroups() {
+            const groupSize = document.getElementById('groupSize').value;
+            $.post('/Home/CreateGroups', { groupSize: groupSize }, function (response) {
+                $('#groupsContainer').html(response);
+            });
+        }
+
+        function saveGroups() {
+            $.post('/Home/SaveGroups', function () {
+                location.reload();
+            });
+        }
+
+        function deleteGroups() {
+            $.post('/Home/DeleteGroups', function () {
+                location.reload();
+            });
+        }
+    </script>
+}

@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using PersonelApp.Data.Abstract;
 using PersonelApp.Data.Concrete;
 using PersonelApp.Data.Concrete.Context;
+using PersonelApp.Services.Abstract;
+using PersonelApp.Services.Concrete;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +17,7 @@ builder.Services.AddDbContext<PersonelAppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IPersonRepository, PersonRepository>();
+builder.Services.AddScoped<IGroupingService, GroupingManager>();
 
 
 

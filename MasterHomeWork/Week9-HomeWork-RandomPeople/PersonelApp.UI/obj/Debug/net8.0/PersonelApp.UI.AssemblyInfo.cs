@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonelApp.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d5dcf0f9445bd35b3d076d7ce189d21fdff451")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41d03f1cb898b0ab1ef649e0609821663e0d6b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonelApp.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonelApp.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

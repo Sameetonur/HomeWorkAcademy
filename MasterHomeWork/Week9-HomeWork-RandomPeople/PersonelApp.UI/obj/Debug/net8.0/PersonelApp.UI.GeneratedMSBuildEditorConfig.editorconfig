@@ -18,16 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week9-HomeWork-RandomPeople/PersonelApp.UI/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week9-HomeWork-RandomPeople/PersonelApp.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week9-HomeWork-RandomPeople/PersonelApp.UI/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week9-HomeWork-RandomPeople/PersonelApp.UI/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week9-HomeWork-RandomPeople/PersonelApp.UI/Views/Home/_GroupsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfR3JvdXBzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHubb/HomeWorkAcademy/MasterHomeWork/Week9-HomeWork-RandomPeople/PersonelApp.UI/Views/Shared/_ValidationScriptsPartial.cshtml]

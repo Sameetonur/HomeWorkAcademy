@@ -1,0 +1,12 @@
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\bin\Debug\net8.0\PersonelApp.Shared.deps.json
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\bin\Debug\net8.0\PersonelApp.Shared.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\bin\Debug\net8.0\PersonelApp.Shared.pdb
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.AssemblyInfoInputs.cache
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.AssemblyInfo.cs
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.csproj.CoreCompileInputs.cache
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.sourcelink.json
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\refint\PersonelApp.Shared.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\PersonelApp.Shared.pdb
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Shared\obj\Debug\net8.0\ref\PersonelApp.Shared.dll

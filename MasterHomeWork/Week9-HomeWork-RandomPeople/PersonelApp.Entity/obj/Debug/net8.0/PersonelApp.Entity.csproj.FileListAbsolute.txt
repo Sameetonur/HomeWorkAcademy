@@ -1,0 +1,16 @@
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\bin\Debug\net8.0\PersonelApp.Entity.deps.json
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\bin\Debug\net8.0\PersonelApp.Entity.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\bin\Debug\net8.0\PersonelApp.Entity.pdb
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\bin\Debug\net8.0\PersonelApp.Shared.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\bin\Debug\net8.0\PersonelApp.Shared.pdb
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.csproj.AssemblyReference.cache
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.AssemblyInfoInputs.cache
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.AssemblyInfo.cs
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.csproj.CoreCompileInputs.cache
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.sourcelink.json
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\Personel.3392C8FA.Up2Date
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\refint\PersonelApp.Entity.dll
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\PersonelApp.Entity.pdb
+D:\GitHubb\HomeWorkAcademy\MasterHomeWork\Week9-HomeWork-RandomPeople\PersonelApp.Entity\obj\Debug\net8.0\ref\PersonelApp.Entity.dll

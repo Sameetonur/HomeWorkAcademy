@@ -151,14 +151,14 @@
         }
       }
     },
-    "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Service\\PersonelApp.Service.csproj": {
+    "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Services\\PersonelApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Service\\PersonelApp.Service.csproj",
-        "projectName": "PersonelApp.Service",
-        "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Service\\PersonelApp.Service.csproj",
+        "projectUniqueName": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Services\\PersonelApp.Services.csproj",
+        "projectName": "PersonelApp.Services",
+        "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Services\\PersonelApp.Services.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Service\\obj\\",
+        "outputPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -215,9 +215,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -320,8 +317,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Service\\PersonelApp.Service.csproj": {
-                "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Service\\PersonelApp.Service.csproj"
+              "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Services\\PersonelApp.Services.csproj": {
+                "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Services\\PersonelApp.Services.csproj"
               },
               "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Shared\\PersonelApp.Shared.csproj": {
                 "projectPath": "D:\\GitHubb\\HomeWorkAcademy\\MasterHomeWork\\Week9-HomeWork-RandomPeople\\PersonelApp.Shared\\PersonelApp.Shared.csproj"
