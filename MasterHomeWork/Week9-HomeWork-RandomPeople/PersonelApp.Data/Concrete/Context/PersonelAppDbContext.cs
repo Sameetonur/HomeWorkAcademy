@@ -35,77 +35,77 @@ public class PersonelAppDbContext : DbContext
                     new Person
                     {
                         Id = 2,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Elif",
+                        Surname = "Binici",
                         Email = "samet@gmail.com",
                     }, new Person
                     {
                         Id = 3,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Aleyna",
+                        Surname = "Çelen",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 4,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Burhan",
+                        Surname = "Torun",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 5,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Emre",
+                        Surname = "Kılıç",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 6,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Doğukhan",
+                        Surname = "Babayiğit",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 7,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Kerem",
+                        Surname = "Kırpar",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 8,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Burak",
+                        Surname = "Avar",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 9,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Enes",
+                        Surname = "Aydemir",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 10,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Emin",
+                        Surname = "Demir",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 11,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Bedirhan",
+                        Surname = "---",
                         Email = "samet@gmail.com",
                     },
                     new Person
                     {
                         Id = 12,
-                        Name = "Samet",
-                        Surname = "Önür",
+                        Name = "Yücel",
+                        Surname = "---",
                         Email = "samet@gmail.com",
                     }
                 );

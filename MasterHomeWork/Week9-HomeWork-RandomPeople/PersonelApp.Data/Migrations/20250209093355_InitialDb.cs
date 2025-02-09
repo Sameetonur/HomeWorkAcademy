@@ -53,17 +53,17 @@ namespace PersonelApp.Data.Migrations
                 values: new object[,]
                 {
                     { 1, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 2, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 3, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 4, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 5, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 6, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 7, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 8, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 9, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 10, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 11, "samet@gmail.com", null, "Samet", 0, "Önür" },
-                    { 12, "samet@gmail.com", null, "Samet", 0, "Önür" }
+                    { 2, "samet@gmail.com", null, "Elif", 0, "Binici" },
+                    { 3, "samet@gmail.com", null, "Aleyna", 0, "Çelen" },
+                    { 4, "samet@gmail.com", null, "Burhan", 0, "Torun" },
+                    { 5, "samet@gmail.com", null, "Emre", 0, "Kılıç" },
+                    { 6, "samet@gmail.com", null, "Doğukhan", 0, "Babayiğit" },
+                    { 7, "samet@gmail.com", null, "Kerem", 0, "Kırpar" },
+                    { 8, "samet@gmail.com", null, "Burak", 0, "Avar" },
+                    { 9, "samet@gmail.com", null, "Enes", 0, "Aydemir" },
+                    { 10, "samet@gmail.com", null, "Emin", 0, "Demir" },
+                    { 11, "samet@gmail.com", null, "Bedirhan", 0, "---" },
+                    { 12, "samet@gmail.com", null, "Yücel", 0, "---" }
                 });
 
             migrationBuilder.CreateIndex(

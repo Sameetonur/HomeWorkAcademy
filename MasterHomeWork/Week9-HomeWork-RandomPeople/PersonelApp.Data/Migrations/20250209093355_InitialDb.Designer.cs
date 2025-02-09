@@ -12,7 +12,7 @@ using PersonelApp.Data.Concrete.Context;
 namespace PersonelApp.Data.Migrations
 {
     [DbContext(typeof(PersonelAppDbContext))]
-    [Migration("20250209092355_InitialDb")]
+    [Migration("20250209093355_InitialDb")]
     partial class InitialDb
     {
         /// <inheritdoc />
@@ -87,89 +87,89 @@ namespace PersonelApp.Data.Migrations
                         {
                             Id = 2,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Elif",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Binici"
                         },
                         new
                         {
                             Id = 3,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Aleyna",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Çelen"
                         },
                         new
                         {
                             Id = 4,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Burhan",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Torun"
                         },
                         new
                         {
                             Id = 5,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Emre",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Kılıç"
                         },
                         new
                         {
                             Id = 6,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Doğukhan",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Babayiğit"
                         },
                         new
                         {
                             Id = 7,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Kerem",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Kırpar"
                         },
                         new
                         {
                             Id = 8,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Burak",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Avar"
                         },
                         new
                         {
                             Id = 9,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Enes",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Aydemir"
                         },
                         new
                         {
                             Id = 10,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Emin",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "Demir"
                         },
                         new
                         {
                             Id = 11,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Bedirhan",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "---"
                         },
                         new
                         {
                             Id = 12,
                             Email = "samet@gmail.com",
-                            Name = "Samet",
+                            Name = "Yücel",
                             PersonType = 0,
-                            Surname = "Önür"
+                            Surname = "---"
                         });
                 });
 
