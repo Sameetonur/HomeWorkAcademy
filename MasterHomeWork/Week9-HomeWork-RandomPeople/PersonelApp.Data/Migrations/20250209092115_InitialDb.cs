@@ -2,6 +2,8 @@
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace PersonelApp.Data.Migrations
 {
     /// <inheritdoc />
@@ -43,6 +45,25 @@ namespace PersonelApp.Data.Migrations
                         column: x => x.GroupId,
                         principalTable: "Groups",
                         principalColumn: "Id");
+                });
+
+            migrationBuilder.InsertData(
+                table: "Persons",
+                columns: new[] { "Id", "Email", "GroupId", "Name", "PersonType", "Surname" },
+                values: new object[,]
+                {
+                    { 1, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 2, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 3, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 4, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 5, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 6, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 7, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 8, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 9, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 10, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 11, "samet@gmail.com", null, "Samet", 0, "Önür" },
+                    { 12, "samet@gmail.com", null, "Samet", 0, "Önür" }
                 });
 
             migrationBuilder.CreateIndex(
