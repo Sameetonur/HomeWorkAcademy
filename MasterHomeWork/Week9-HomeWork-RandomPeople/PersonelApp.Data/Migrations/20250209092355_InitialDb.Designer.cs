@@ -12,7 +12,7 @@ using PersonelApp.Data.Concrete.Context;
 namespace PersonelApp.Data.Migrations
 {
     [DbContext(typeof(PersonelAppDbContext))]
-    [Migration("20250209092115_InitialDb")]
+    [Migration("20250209092355_InitialDb")]
     partial class InitialDb
     {
         /// <inheritdoc />
